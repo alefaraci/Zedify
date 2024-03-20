@@ -13,9 +13,8 @@
 
 <img title="Zedify" alt="Zedify" src="https://res.cloudinary.com/dkytv4nwx/image/upload/v1710969681/screen_qiuhyr.png">
 
-**Please note**:
-
-Before using Zedify, ensure you've installed the Zed editor's command line interface (CLI). To do this, open Zed, navigate to the menu bar, select `Zed` > `Install CLI`. If you haven't installed Zed yet, you can download it from [here](https://zed.dev).
+> [!IMPORTANT]
+> Before using Zedify, ensure you've installed the Zed editor's command line interface (CLI). To do this, open Zed, navigate to the menu bar, select `Zed` > [`Install CLI`](https://zed.dev/features#cli). If you haven't installed Zed yet, you can download it from [here](https://zed.dev).
 
 ## Installation
 
