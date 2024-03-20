@@ -2,13 +2,13 @@
     <img title="ZedifyIcon" alt="ZedifyIcon" src="https://res.cloudinary.com/dkytv4nwx/image/upload/v1710966741/Zedify_pcer6n.png" width="128">
 </p>
 
+<img title="Zedify" alt="Zedify" src="https://res.cloudinary.com/dkytv4nwx/image/upload/v1710969681/screen_qiuhyr.png">
+
 [![build](https://img.shields.io/badge/build-passing-brightgreen)](https://img.shields.io/badge/build-passing-brightgreen)
 [![version](https://img.shields.io/badge/version-v1.0-brightgreen)](https://github.com/alefaraci/Zedify/releases/tag/devs)
 [![language](https://img.shields.io/badge/language-AppleScript-blue)](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)
 [![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/alefaraci/Zedify/blob/main/LICENSE)
 [![issues](https://img.shields.io/badge/issues-0-red)](https://github.com/alefaraci/Zedify/issues)
-
-<img title="Zedify" alt="Zedify" style="border-radius: 30px;" src="https://res.cloudinary.com/dkytv4nwx/image/upload/v1710969681/screen_qiuhyr.png">
 
 # Zedify
 
