@@ -51,4 +51,4 @@ Alessio Faraci, [afaraci.com](https://afaraci.com).
 
 ## License
 
-**Zedify** is licensed under the [MIT license](https://github.com/alefaraci/Zedify/blob/main/LICENSE.md).
+Licensed under the [MIT license](https://github.com/alefaraci/Zedify/blob/main/LICENSE.md).
