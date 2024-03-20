@@ -36,7 +36,7 @@ Here's a quick demo:
 ![Application GIF](https://res.cloudinary.com/dkytv4nwx/image/upload/v1710972769/open2_p6oxjn.gif "Application Demo")
 
 > [!IMPORTANT]
-> If you've already downloaded the app and tried to open it, you might see a message that the app cannot be opened because it is from an unidentified developer. This is part of Apple's security settings. Open `System Preferences` > `Security & Privacy Settings`. Look towards the bottom of the window. If macOS blocked the app from opening, there should be a message saying `"Zedify was blocked from use because it is not from an identified developer."`. Click on `Open Anyway` to allow the app to run. You might need to enter your computer's admin password to make changes. Click on the `Zedify` icon again in the Finder. After a confirmation dialog will appear, asking if you're sure you want to open the app. Click `Open` to confirm.
+> If you've already downloaded the app and tried to open it, you might see a message that the app cannot be opened because it is from an unidentified developer. This is part of Apple's security settings. Open `System Preferences` > `Security & Privacy Settings`. Look towards the bottom of the window. If macOS blocked the app from opening, there should be a message saying `"Zedify was blocked from use because it is not from an identified developer."`. Click on `Open Anyway` to allow the app to run. You might need to enter your computer's admin password to make changes. Click on the `Zedify` icon again in the Finder. A confirmation dialog will appear, asking if you're sure you want to open the app. Click `Open` to confirm. Et voilà!
 
 ## Credit
 
