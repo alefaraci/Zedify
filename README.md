@@ -9,7 +9,7 @@
 
 [![build](https://img.shields.io/badge/build-passing-brightgreen)](https://img.shields.io/badge/build-passing-brightgreen)
 [![version](https://img.shields.io/badge/lastest%20version-v1.0-brightgreen)](https://github.com/alefaraci/Zedify/releases/tag/v1.0)
-[![dmg](https://img.shields.io/badge/dmg-Zedify.app-yellow)](https://github.com/alefaraci/Zedify/releases/download/v1.0/Zedify.dmg)
+[![dmg](https://img.shields.io/badge/dmg-Zedify.dmg-yellow)](https://github.com/alefaraci/Zedify/releases/download/v1.0/Zedify.dmg)
 [![language](https://img.shields.io/badge/language-AppleScript-blue)](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)
 [![license](https://img.shields.io/badge/license-MIT%20license-brightgreen.svg)](https://github.com/alefaraci/Zedify/blob/main/LICENSE)
 [![issues](https://img.shields.io/badge/open%20issues-none-red)](https://github.com/alefaraci/Zedify/issues)
