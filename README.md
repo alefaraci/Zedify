@@ -7,13 +7,13 @@
 
 `Zedify` is an AppleScript application that allows you to open your current Finder folder directly in the [Zed editor](https://github.com/zed-industries/zed).
 
+<img title="Zedify" alt="Zedify" src="https://res.cloudinary.com/dkytv4nwx/image/upload/v1710969681/screen_qiuhyr.png">
+
 [![build](https://img.shields.io/badge/build-passing-brightgreen)](https://img.shields.io/badge/build-passing-brightgreen)
 [![version](https://img.shields.io/badge/version-v1.0-brightgreen)](https://github.com/alefaraci/Zedify/releases/tag/v1.0)
 [![language](https://img.shields.io/badge/language-AppleScript-blue)](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)
 [![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/alefaraci/Zedify/blob/main/LICENSE)
 [![issues](https://img.shields.io/badge/issues-0-red)](https://github.com/alefaraci/Zedify/issues)
-
-<img title="Zedify" alt="Zedify" src="https://res.cloudinary.com/dkytv4nwx/image/upload/v1710969681/screen_qiuhyr.png">
 
 > [!IMPORTANT]
 > Before using Zedify, ensure you've installed the Zed editor's command line interface (CLI). To do this, open Zed, navigate to the menu bar, select `Zed` > [`Install CLI`](https://zed.dev/features#cli). If you haven't installed Zed yet, you can download it from [here](https://zed.dev).
