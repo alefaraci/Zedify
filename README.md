@@ -1,5 +1,6 @@
 <p align="center">
     <img title="ZedifyIcon" alt="ZedifyIcon" src="https://res.cloudinary.com/dkytv4nwx/image/upload/v1710966741/Zedify_pcer6n.png" width="128">
+    <h1 align="center">Zedify</h1>
 </p>
 
 [![build](https://img.shields.io/badge/build-passing-brightgreen)](https://img.shields.io/badge/build-passing-brightgreen)
@@ -8,11 +9,9 @@
 [![license](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/alefaraci/Zedify/blob/main/LICENSE)
 [![issues](https://img.shields.io/badge/issues-0-red)](https://github.com/alefaraci/Zedify/issues)
 
-<img title="Zedify" alt="Zedify" src="https://res.cloudinary.com/dkytv4nwx/image/upload/v1710969681/screen_qiuhyr.png">
-
-# Zedify
-
 `Zedify` is an AppleScript application that allows you to open your current Finder folder directly in the [Zed editor](https://github.com/zed-industries/zed).
+
+<img title="Zedify" alt="Zedify" src="https://res.cloudinary.com/dkytv4nwx/image/upload/v1710969681/screen_qiuhyr.png">
 
 **Please note**:
 
