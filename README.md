@@ -26,6 +26,8 @@ Before using Zedify, ensure you've installed the Zed editor's command line inter
 
 ![Application GIF](https://res.cloudinary.com/dkytv4nwx/image/upload/v1710971123/application_zpqzrr.gif "Application Demo")
 
+<img src="https://res.cloudinary.com/dkytv4nwx/image/upload/v1710971123/application_zpqzrr.gif" alt="Application Demo" title="Application Demo" width="600">
+
 ## Usage
 
 1. Navigate to a folder you want to open with `Zed`;
