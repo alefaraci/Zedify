@@ -18,7 +18,7 @@
 
 ## Installation
 
-1. [Download the app]();
+1. [Download the .dmg file](https://github.com/alefaraci/Zedify/releases/download/v1.0/Zedify.dmg);
 2. Move `Zedify.app` to `/Applications` folder;
 3. Go to the `/Applications` folder. While holding the `cmd` key, drag `Zedify.app` to the Finder toolbar.
 
@@ -41,7 +41,7 @@ Icon by [christippett](https://macosicons.com/#/u/christippett) from [macOSicons
 
 ## Author
 
-Alessio Faraci, [afaraci.com](https://afaraci.com)
+Alessio Faraci, [afaraci.com](https://afaraci.com).
 
 ## License
 
