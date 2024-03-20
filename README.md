@@ -12,7 +12,7 @@
 [![dmg](https://img.shields.io/badge/dmg-Zedify.app-yellow)](https://github.com/alefaraci/Zedify/releases/download/v1.0/Zedify.dmg)
 [![language](https://img.shields.io/badge/language-AppleScript-blue)](https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/introduction/ASLR_intro.html)
 [![license](https://img.shields.io/badge/license-MIT%20license-brightgreen.svg)](https://github.com/alefaraci/Zedify/blob/main/LICENSE)
-[![issues](https://img.shields.io/badge/open%20issues-0-red)](https://github.com/alefaraci/Zedify/issues)
+[![issues](https://img.shields.io/badge/open%20issues-none-red)](https://github.com/alefaraci/Zedify/issues)
 
 <img title="Zedify" alt="Zedify" src="https://res.cloudinary.com/dkytv4nwx/image/upload/v1710969681/screen_qiuhyr.png">
 
