@@ -1,7 +1,8 @@
 <p align="center">
     <img title="ZedifyIcon" alt="ZedifyIcon" src="https://res.cloudinary.com/dkytv4nwx/image/upload/v1710966741/Zedify_pcer6n.png" width="128">
     <h1 align="center">Zedify</h1>
-    <a align="center" href="https://github.com/alefaraci/Zedify/releases/download/v1.0/Zedify.dmg" title="Download the app"> Download the app </a>
+    <p align="center">
+    <a  href="https://github.com/alefaraci/Zedify/releases/download/v1.0/Zedify.dmg" title="Download the app"> Download the app </a></p>
 </p>
 
 [![build](https://img.shields.io/badge/build-passing-brightgreen)](https://img.shields.io/badge/build-passing-brightgreen)
