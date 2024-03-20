@@ -24,9 +24,7 @@ Before using Zedify, ensure you've installed the Zed editor's command line inter
 2. Move `Zedify.app` to `/Applications` folder;
 3. Go to the `/Applications` folder. While holding the `cmd` key, drag `Zedify.app` to the Finder toolbar.
 
-![Application GIF](https://res.cloudinary.com/dkytv4nwx/image/upload/v1710971123/application_zpqzrr.gif "Application Demo")
-
-<img src="https://res.cloudinary.com/dkytv4nwx/image/upload/v1710971123/application_zpqzrr.gif" alt="Application Demo" title="Application Demo" width="600">
+![Install GIF](https://res.cloudinary.com/dkytv4nwx/image/upload/v1710972769/open2_p6oxjn.gif "Application Demo")
 
 ## Usage
 
@@ -37,7 +35,7 @@ The folder will open in Zed editor.
 
 Here's a quick demo:
 
-![Alt Text](https://res.cloudinary.com/dkytv4nwx/image/upload/v1710969822/opening_f3cedj.gif)
+![Application Demo](https://res.cloudinary.com/dkytv4nwx/image/upload/v1710972769/app2_z33adk.gif "Application Demo")
 
 ## Credit
 
