@@ -1,12 +1,8 @@
-<!-- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/alefaraci/Zedify/blob/main/assets/images/Zedify Logo Dark.png">
+ <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alefaraci/Zedify/refs/heads/main/assets/images/Zedify%20Logo%20Dark.png">
   <img src="./assets/images/Zedify Logo.png" alt="Zedify logo" height="70">
-</picture> -->
+</picture> 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/images/Zedify Logo Dark.png">
-  <img src="./assets/images/Zedify Logo.png" alt="Zedify Logo" height="75">
-</picture>
 
 <!-- <img src="./assets/images/Zedify Logo.png" alt="Zedify Logo" height="75"> -->
 
