@@ -24,6 +24,8 @@
   <a href="https://github.com/alefaraci/Zedify/blob/main/LICENSE">![license](https://img.shields.io/badge/license-MIT%20license-brightgreen.svg)</a>
 </div>
 
+---
+
 ## About
 `Zedify` is a native [`Swift`](https://www.swift.org)/[`AppKit`](https://developer.apple.com/documentation/appkit) app that runs as a background agent (`LSUIElement`) — no dock icon, no menu bar, no UI. When launched, it queries the frontmost Finder window for its directory and opens that path in `Zed`. The first time you run `Zedify`, macOS will ask you to grant it **automation permission** to control Finder.
 
@@ -41,6 +43,8 @@
 3. Go to the `/Applications` folder. While holding the `cmd` key, drag `Zedify.app` to the Finder toolbar.
 
 ![Install Demo](./assets/gif/Install.gif "Install Demo")
+
+---
 
 ## Usage
 
@@ -61,6 +65,8 @@ Here's a quick demo:
 > 3. Click `Open Anyway` (you may need to enter your admin password);
 > 4. Click on the `Zedify` icon again in Finder;
 > 5. A confirmation dialog will appear — click `Open` to confirm.
+
+---
 
 ## Credit
 
