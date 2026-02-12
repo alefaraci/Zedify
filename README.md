@@ -16,15 +16,25 @@
   </p>
 </p>
 
-[![version](https://img.shields.io/badge/latest%20version-v2.0-brightgreen)](https://github.com/alefaraci/Zedify/releases/tag/v2.0)
+<div align="center">
+  
+  <a href="https://github.com/alefaraci/Zedify/releases/tag/v2.0">![version](https://img.shields.io/badge/latest%20version-v2.0-brightgreen)</a>
+  ·
+  <a href="https://developer.apple.com/swift/">![language](https://img.shields.io/badge/language-Swift-orange)</a>
+  ·
+  <a href="https://github.com/alefaraci/Zedify/releases/download/v2.0/Zedify.dmg">![dmg](https://img.shields.io/badge/dmg-Zedify.dmg-yellow)</a>
+  ·
+  <a href="https://github.com/alefaraci/Zedify/blob/main/LICENSE">![license](https://img.shields.io/badge/license-MIT%20license-brightgreen.svg)</a>
+</div>
+
+
+<!-- [![version](https://img.shields.io/badge/latest%20version-v2.0-brightgreen)](https://github.com/alefaraci/Zedify/releases/tag/v2.0)
 [![language](https://img.shields.io/badge/language-Swift-orange)](https://developer.apple.com/swift/)
 [![dmg](https://img.shields.io/badge/dmg-Zedify.dmg-yellow)](https://github.com/alefaraci/Zedify/releases/download/v2.0/Zedify.dmg)
-[![license](https://img.shields.io/badge/license-MIT%20license-brightgreen.svg)](https://github.com/alefaraci/Zedify/blob/main/LICENSE)
+[![license](https://img.shields.io/badge/license-MIT%20license-brightgreen.svg)](https://github.com/alefaraci/Zedify/blob/main/LICENSE) -->
 
 ## About
-`Zedify` is a native [`Swift`](https://www.swift.org)/[`AppKit`](https://developer.apple.com/documentation/appkit) app that runs as a background agent (`LSUIElement`) — no dock icon, no menu bar, no UI. When launched, it queries the frontmost Finder window for its directory and opens that path in `Zed`.
-
-The first time you run `Zedify`, macOS will ask you to grant it **automation permission** to control Finder.
+`Zedify` is a native [`Swift`](https://www.swift.org)/[`AppKit`](https://developer.apple.com/documentation/appkit) app that runs as a background agent (`LSUIElement`) — no dock icon, no menu bar, no UI. When launched, it queries the frontmost Finder window for its directory and opens that path in `Zed`. The first time you run `Zedify`, macOS will ask you to grant it **automation permission** to control Finder.
 
 > [!IMPORTANT]
 > `Zedify` requires the [`Zed` code editor](https://zed.dev) to be installed on your Mac.
