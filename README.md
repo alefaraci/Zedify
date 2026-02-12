@@ -3,9 +3,6 @@
   <img src="./assets/images/Zedify Logo.png" alt="Zedify logo" height="70">
 </picture> 
 
-
-# Zedify
-
 [![version](https://img.shields.io/badge/latest%20version-v2.0-brightgreen)](https://github.com/alefaraci/Zedify/releases/tag/v2.0)
 [![language](https://img.shields.io/badge/language-Swift-orange)](https://developer.apple.com/swift/)
 [![dmg](https://img.shields.io/badge/dmg-Zedify.dmg-yellow)](https://github.com/alefaraci/Zedify/releases/download/v2.0/Zedify.dmg)
