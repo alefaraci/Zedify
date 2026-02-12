@@ -34,7 +34,7 @@
 
 ## Installation
 
-1. [Download `Zedify.dmg`](https://github.com/alefaraci/Zedify/releases/download/v2.0/Zedify.dmg);
+1. Download [`Zedify.dmg`](https://github.com/alefaraci/Zedify/releases/download/v2.0/Zedify.dmg) file;
 2. Move `Zedify.app` to `/Applications` folder;
 3. Go to the `/Applications` folder. While holding the `cmd` key, drag `Zedify.app` to the Finder toolbar.
 
