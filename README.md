@@ -1,14 +1,30 @@
- <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alefaraci/Zedify/refs/heads/main/assets/images/Zedify%20Logo%20Dark.png">
-  <img src="./assets/images/Zedify Logo.png" alt="Zedify logo" height="70">
-</picture> 
+<h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alefaraci/Zedify/refs/heads/main/assets/images/Zedify%20Icon.png" alt="Logo" width="128">
+  <br>Zedify
+</h1>
+  <p align="center">
+    A lightweight macOS utility that opens your current Finder folder directly in the <a href="https://github.com/zed-industries/zed">Zed</a>.
+    <br />
+    <a href="#about">About</a>
+    ·
+    <a href="https://github.com/alefaraci/Zedify/releases/download/v2.0/Zedify.dmg">Download</a>
+    ·
+    <a href="#installation">Installation</a>
+    ·
+    <a href="#usage">Usage</a>
+  </p>
+</p>
 
 [![version](https://img.shields.io/badge/latest%20version-v2.0-brightgreen)](https://github.com/alefaraci/Zedify/releases/tag/v2.0)
 [![language](https://img.shields.io/badge/language-Swift-orange)](https://developer.apple.com/swift/)
 [![dmg](https://img.shields.io/badge/dmg-Zedify.dmg-yellow)](https://github.com/alefaraci/Zedify/releases/download/v2.0/Zedify.dmg)
 [![license](https://img.shields.io/badge/license-MIT%20license-brightgreen.svg)](https://github.com/alefaraci/Zedify/blob/main/LICENSE)
 
-`Zedify` is a lightweight macOS utility that opens your current Finder folder directly in the [`Zed`](https://github.com/zed-industries/zed). It runs as a background agent.
+## About
+`Zedify` is a native [`Swift`](https://www.swift.org)/[`AppKit`](https://developer.apple.com/documentation/appkit) app that runs as a background agent (`LSUIElement`) — no dock icon, no menu bar, no UI. When launched, it queries the frontmost Finder window for its directory and opens that path in `Zed`.
+
+The first time you run `Zedify`, macOS will ask you to grant it **automation permission** to control Finder.
 
 > [!IMPORTANT]
 > `Zedify` requires the [`Zed` code editor](https://zed.dev) to be installed on your Mac.
@@ -44,16 +60,6 @@ Here's a quick demo:
 > 3. Click `Open Anyway` (you may need to enter your admin password);
 > 4. Click on the `Zedify` icon again in Finder;
 > 5. A confirmation dialog will appear — click `Open` to confirm.
-
-## How it works
-
-`Zedify` is a native [`Swift`](https://www.swift.org)/[`AppKit`](https://developer.apple.com/documentation/appkit) app that runs as a background agent (`LSUIElement`) — no dock icon, no menu bar, no UI. When launched, it:
- 
-1. Queries the frontmost Finder window for its directory path via `AppleScript`
-2. Opens that path in `Zed` using `/usr/bin/open -a Zed`
-3. Terminates itself
-
-The first time you run `Zedify`, macOS will ask you to grant it **automation permission** to control Finder.
 
 ## Credit
 
