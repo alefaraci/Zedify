@@ -4,8 +4,6 @@
 </picture> 
 
 
-<!-- <img src="./assets/images/Zedify Logo.png" alt="Zedify Logo" height="75"> -->
-
 # Zedify
 
 [![version](https://img.shields.io/badge/latest%20version-v2.0-brightgreen)](https://github.com/alefaraci/Zedify/releases/tag/v2.0)
@@ -28,7 +26,6 @@
 2. Move `Zedify.app` to `/Applications` folder;
 3. Go to the `/Applications` folder. While holding the `cmd` key, drag `Zedify.app` to the Finder toolbar.
 
-<!-- ![Install Demo](./assets/screenrecord/Install.mp4 "Install Demo") -->
 ![Install Demo](./assets/gif/Install.gif "Install Demo")
 
 ## Usage
@@ -40,7 +37,6 @@ The folder will open in `Zed` editor as a project.
 
 Here's a quick demo:
 
-<!-- ![Application GIF](./assets/screenrecord/Launcher.mp4 "Application Demo") -->
 ![Application GIF](./assets/gif/Launcher.gif "Application Demo")
 
 > [!IMPORTANT]
