@@ -46,12 +46,29 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         if error != nil { return nil }
         return output?.stringValue
     }
-
+    
     private func openInZed(path: String) {
         let process = Process()
         process.executableURL = URL(fileURLWithPath: "/usr/bin/open")
         process.arguments = ["-a", "Zed", path]
-        try? process.run()
-        process.waitUntilExit()
+
+        do {
+            try process.run()
+            process.waitUntilExit()
+
+            if process.terminationStatus != 0 {
+                showError()
+            }
+        } catch {
+            showError()
+        }
+    }
+
+    private func showError() {
+        let alert = NSAlert()
+        alert.messageText = "Unable to find application named 'Zed.app'"
+        alert.alertStyle = .critical
+        alert.addButton(withTitle: "OK")
+        alert.runModal()
     }
 }
